@@ -8,6 +8,6 @@
         <Label Text="map test"/>
         <Entry Text="put address" />
         <Button Text="Apply" x:Name="buttonApply"/>
-    </StackLayout>
+    </StackLayout>   
     
 </ContentPage>
