@@ -12,7 +12,9 @@ namespace MapTest
         public App()
         {
             InitializeComponent();
-            MainPage = new MapTest.MainPage();
+            MainPage = new MapTest.MainPage();  
+            // PSH 05/19/17 : now published to git hub
+            // hello this is updated. 
         }
 
         protected override void OnStart()
